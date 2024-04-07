@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">Automated tests to validate modal dialogs</h3>
+<p align="left">Automated tests to validate modal dialogs</p>
 
 ###
 
